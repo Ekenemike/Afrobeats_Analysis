@@ -31,3 +31,15 @@ This project analyzes the performance of Afrobeats songs across Spotify, Apple M
 - <a href=https://music.apple.com/bh/playlist/top-100-nigeria/pl.2fc68f6d68004ae993dadfe99de83877>Apple Music</a>
 
 - <a href=https://charts.youtube.com/charts/TopSongs/ng/weekly>YouTube Music</a>
+
+## Tools & Technologies Used
+
+✔ SQL (BigQuery) → Data Cleaning & Querying
+
+✔ Google Sheets → Dataset Organization
+
+✔ Looker Studio → Interactive Reports & Visualizations
+
+✔ Python → (Optional for further analysis)
+
+✔ Instant Data Scraper → Web scraping tool for extracting real-time data from streaming platforms
