@@ -72,4 +72,16 @@ This method ensured I had real-time, structured data for analysis without manual
 
 - <a href=https://lookerstudio.google.com/s/g6QMkLUzs6g>Report 6</a>
 
+## Data Visualization in Looker Studio
 
+🎯 Interactive Dashboard Includes:
+
+✅ Top 10 Most Streamed Songs 
+
+✅ Total Revenue Breakdown 
+
+✅ Most Frequent Artists 
+
+✅ Song Performance Across Platforms 
+
+✅ Fastest-Growing Songs on YouTube
