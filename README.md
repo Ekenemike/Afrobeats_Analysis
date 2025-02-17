@@ -21,3 +21,5 @@ Dataset Sources
 📌 Live music charts for updated rankings:
 
 - <a href=https://github.com/Ekenemike/Afrobeats_Analysis/blob/main/open.csv>Dataset1</a>
+
+- <a href=https://github.com/Ekenemike/Afrobeats_Analysis/blob/main/charts.csv>Dataset2</a>
