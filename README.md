@@ -69,3 +69,7 @@ This method ensured I had real-time, structured data for analysis without manual
 - <a href=https://lookerstudio.google.com/s/uPHWxeG1qCQ>Report 4</a>
 
 - <a href=https://lookerstudio.google.com/s/jYweYoBX0kc>Report 5</a>
+
+- <a href=https://lookerstudio.google.com/s/g6QMkLUzs6g>Report 6</a>
+
+
