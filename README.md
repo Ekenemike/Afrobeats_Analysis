@@ -23,3 +23,7 @@ This project analyzes the performance of Afrobeats songs across Spotify, Apple M
 - <a href=https://github.com/Ekenemike/Afrobeats_Analysis/blob/main/charts.csv>Dataset2</a>
 
 - <a href=https://github.com/Ekenemike/Afrobeats_Analysis/blob/main/youtube-charts-top-songs-ng-weekly-20250206.csv>Dataset3</a>
+
+##  Live music charts for updated rankings:
+
+- <a href=https://open.spotify.com/playlist/37i9dQZEVXbLw80jjcctV1>Spotify</a>
