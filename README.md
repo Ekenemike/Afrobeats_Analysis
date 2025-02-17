@@ -23,3 +23,5 @@ Dataset Sources
 - <a href=https://github.com/Ekenemike/Afrobeats_Analysis/blob/main/open.csv>Dataset1</a>
 
 - <a href=https://github.com/Ekenemike/Afrobeats_Analysis/blob/main/charts.csv>Dataset2</a>
+
+- <a href=https://github.com/Ekenemike/Afrobeats_Analysis/blob/main/youtube-charts-top-songs-ng-weekly-20250206.csv>Dataset3</a>
