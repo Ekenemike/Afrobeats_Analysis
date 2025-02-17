@@ -57,3 +57,15 @@ To gather streaming data, we used Instant Data Scraper, a browser extension that
 4️⃣ Load into Google Sheets: Clean and organize data before running SQL queries in BigQuery.
 
 This method ensured I had real-time, structured data for analysis without manual data entry errors.
+
+## Dasboard Reports
+
+- <a href=https://lookerstudio.google.com/s/r7mqqUCZF-4>Report 1</a>
+
+- <a href=https://lookerstudio.google.com/s/uXpCXG_V-P0>Report 2</a>
+
+- <a href=https://lookerstudio.google.com/s/pDkMjgWr4fc>Report 3</a>
+
+- <a href=https://lookerstudio.google.com/s/uPHWxeG1qCQ>Report 4</a>
+
+- <a href=https://lookerstudio.google.com/s/jYweYoBX0kc>Report 5</a>
