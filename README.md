@@ -43,3 +43,17 @@ This project analyzes the performance of Afrobeats songs across Spotify, Apple M
 ✔ Python → (Optional for further analysis)
 
 ✔ Instant Data Scraper → Web scraping tool for extracting real-time data from streaming platforms
+
+## Data Collection Process
+
+To gather streaming data, we used Instant Data Scraper, a browser extension that automates data extraction from web pages. The steps followed:
+
+1️⃣ Navigate to the Official Charts: Open the respective pages for Spotify, Apple Music, and YouTube charts.
+
+2️⃣ Configure Instant Data Scraper: Set up scraping parameters to extract relevant song, artist, and ranking data.
+
+3️⃣ Export Data to CSV: Save extracted data for further processing in SQL and Google Sheets.
+
+4️⃣ Load into Google Sheets: Clean and organize data before running SQL queries in BigQuery.
+
+This method ensured I had real-time, structured data for analysis without manual data entry errors.
