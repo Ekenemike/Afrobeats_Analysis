@@ -16,9 +16,7 @@ This project analyzes the performance of Afrobeats songs across Spotify, Apple M
 
 📍 Final Deliverable: A Looker Studio Dashboard presenting key insights from the analysis.
 
-Dataset Sources
-
-📌 Live music charts for updated rankings:
+## Dataset Sources used
 
 - <a href=https://github.com/Ekenemike/Afrobeats_Analysis/blob/main/open.csv>Dataset1</a>
 
