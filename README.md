@@ -85,3 +85,17 @@ This method ensured I had real-time, structured data for analysis without manual
 ✅ Song Performance Across Platforms 
 
 ✅ Fastest-Growing Songs on YouTube
+
+## Challenges Faced
+
+1️⃣ Data Merging Issues: Initially attempted to merge all query results into a single Google Sheets file, but this led to misalignment issues where different query results appeared under the wrong columns.
+
+2️⃣ Finding a Better Approach: Instead of merging, I decided to keep each query result as a separate sheet and use Looker Studio to build individual reports for each insight.
+
+3️⃣ Query Optimization: Some SQL queries required refining to handle NULL values and ensure accurate revenue calculations.
+
+4️⃣ Looker Studio Setup: Setting up correct visualization types for different metrics and ensuring interactive filters worked properly.
+
+5️⃣ Scraping Limitations: Using Instant Data Scraper required continuous monitoring to ensure extracted data was structured correctly and did not miss essential details.
+
+
