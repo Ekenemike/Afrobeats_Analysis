@@ -2,7 +2,7 @@
 I analyzed Afrobeats music performance across Spotify, Apple Music, and YouTube Music using SQL, Google Sheets, and Looker Studio.
 ## Project Overview
 
-This project analyzes the performance of Afrobeats songs across Spotify, Apple Music, and YouTube Music using SQL, Google Sheets, and Looker Studio. The analysis provides insights into:
+This project analyzes the performance of Afrobeats songs across Spotify Top 50 Nigeria Charts, Apple Music Top 100 Nigeria Charts, and YouTube Music Top 100 Nigeria Charts using SQL(Google Bigquery), Google Sheets, and Looker Studio. The analysis provides insights into:
 
 ✅ Most Streamed Songs & Artists
 
@@ -14,7 +14,7 @@ This project analyzes the performance of Afrobeats songs across Spotify, Apple M
 
 ✅ Comparison of Artist Rankings on Different Platforms
 
-📍 Final Deliverable: A Looker Studio Dashboard presenting key insights from the analysis.
+📍 Final Deliverable:  Looker Studio Dashboard reorts presenting key insights from my analysis.
 
 ## Dataset Sources used
 
