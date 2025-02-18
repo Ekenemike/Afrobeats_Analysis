@@ -98,4 +98,34 @@ This method ensured I had real-time, structured data for analysis without manual
 
 5️⃣ Scraping Limitations: Using Instant Data Scraper required continuous monitoring to ensure extracted data was structured correctly and did not miss essential details.
 
+How to Use This Repository
+
+1️⃣ Clone the repository:
+
+git clone https://github.com/Ekenemike/Afrobeats_Analysis.git
+
+2️⃣ Open the SQL Queries folder for all SQL scripts.
+
+3️⃣ Open the Data folder for original datasets used.
+
+4️⃣ Open the Looker Studio Report to explore the dashboard.
+
+👨‍💻 About Me
+
+🎵 Passionate about data-driven insights in the music industry, the business world and geopolitical Analysis
+
+💡 Always exploring SQL, Data Analytics, and Music Business Trends.
+
+📢 Contact & Contributions
+
+📌 Found an issue or want to collaborate? Feel free to open a pull request!
+
+📧 Email: Ekenemike@outlookl.com🔗 
+
+LinkedIn: http://www.linkedin.com/in/ekene-m-ahuche
+
+🚀 If you find this project useful, please ⭐ star the repo!
+
+
+
 
