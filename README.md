@@ -86,6 +86,27 @@ This method ensured I had real-time, structured data for analysis without manual
 
 ✅ Fastest-Growing Songs on YouTube
 
+## Key Business Recommendations
+1️⃣ Leverage YouTube for Music Discovery
+
+Viral growth on YouTube does not guarantee Spotify/Apple Music traction (e.g., Tems’ "Love Me Jeje").
+Music marketers should focus on converting YouTube traction into Spotify & Apple streams.
+
+2️⃣ Prioritize Spotify for Revenue
+
+Spotify pays significantly more per stream than YouTube.
+Artists should push listeners toward Spotify to maximize earnings. (e.g., ODUMODUBLVCK and Rema) both dominate the Spotify Charts in terms of earnings from streams.
+
+3️⃣ Cross-Promotion is Crucial
+
+Artists with high cross-platform presence (e.g., Wizkid, Asake, Burna Boy) dominate the charts.
+Labels should distribute releases evenly across streaming platforms.
+
+4️⃣ Long-Lasting Songs Drive Brand Retention
+
+Omah Lay's "Understand" spent 63 weeks on the charts, proving longevity matters for branding.
+Sustained marketing strategies can help keep songs charting longer.
+
 ## Challenges Faced
 
 1️⃣ Data Merging Issues: Initially attempted to merge all query results into a single Google Sheets file, but this led to misalignment issues where different query results appeared under the wrong columns.
