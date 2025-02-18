@@ -99,7 +99,7 @@ Artists should push listeners toward Spotify to maximize earnings. (e.g., ODUMOD
 
 3️⃣ Cross-Promotion is Crucial
 
-Artists with high cross-platform presence (e.g., Wizkid, Asake, Burna Boy) dominate the charts.
+Artists with high cross-platform presence (e.g., Wizkid, Asake, Burna Boy) dominate the charts based on the amount of songs they have across all 3 charts.
 Labels should distribute releases evenly across streaming platforms.
 
 4️⃣ Long-Lasting Songs Drive Brand Retention
