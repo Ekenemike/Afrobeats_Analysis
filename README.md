@@ -46,7 +46,7 @@ This project analyzes the performance of Afrobeats songs across Spotify Top 50 N
 
 ## Data Collection Process
 
-To gather streaming data, we used Instant Data Scraper, a browser extension that automates data extraction from web pages. The steps followed:
+To gather streaming data, I used Instant Data Scraper, a browser extension that automates data extraction from web pages. The steps followed:
 
 1️⃣ Navigate to the Official Charts: Open the respective pages for Spotify, Apple Music, and YouTube charts.
 
